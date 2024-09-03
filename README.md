@@ -12,11 +12,13 @@ Ministry of Law and Justice
 ## Idea:
 1.Nearest E-Waste Facility Locator: Use Geocoding AI to find nearby e-waste facilities based on the user's current location. Implement image recognition to categorize e-waste when users upload photos, suggesting the appropriate recycling facility
 
-2.Educational Pop-ups: Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
+2.Virtual Assistant: Offer a virtual assistant that provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
 
-3.Reward Points System: Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
+3.Educational Pop-ups: Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
 
-4.Real-time Analytics Dashboard: Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
+4.Reward Points System: Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
+
+5.Real-time Analytics Dashboard: Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
 
 
 ## Proposed Solution / Architecture Diagram:
