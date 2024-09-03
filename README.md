@@ -26,11 +26,29 @@ Ministry of Law and Justice
 
 
 
-## Use Cases
+## Use Cases:
+![image](https://github.com/user-attachments/assets/b52274ee-d7e6-43b7-bb5f-96942c8f563a)
 
 
-## Technology Stack
+
+## Technology Stack:
+1.React.js
+
+2.Node.js
+
+3.PostgreSQL
+
+4.Google maps
+
+4.Firebox Authenticator
+
+5.Git , Postman or Insomnia
 
 
-## Dependencies
+
+
+## Dependencies:
+Mapping service- 10 days
+Data collection- 10 days
+budget- rs.20,000
 
